@@ -7,12 +7,7 @@
 .nav-link{
     font-size:700;
 }
-.top-banner{
-    background-image: url(elements/header-bg.png);
-    background-repeat: no-repeat;
-    background-position: right;
-    background-size: cover;
-}
+
 .carousel-item p{
     text-align: justify;
 }
